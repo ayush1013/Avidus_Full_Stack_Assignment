@@ -1,0 +1,3 @@
+The challenge will focus on core functionality and essential features within the given time frame, including the implementation of a search page with date filters and other filters such as location and size.
+
+Step1 : Create authentication signup/login
